@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1724614741 source:c:\users\alexd\documents\c++\divergence2hour\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<sstream>
+
